@@ -1,2 +1,2 @@
-# PrepCourse-henry
-este es un repositorio de prueva
+
+Pruve de como crear un repositorio y clonarlo a mi computadora.
